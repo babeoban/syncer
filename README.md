@@ -1,15 +1,15 @@
 # syncer v1.0.0
 
 ## Feature
-###Sync mods
+### Sync mods
 Copy all mods in the mods folder to every instance
-###Sync setting
+### Sync setting
 Copy all mods in the mods folder to every instance
-###Editable atum setting
+### Editable atum setting
 ![image](https://user-images.githubusercontent.com/95404564/231390334-7ab8b718-94c9-4c51-a2b0-892ba23b77be.png)
-###Easy GUI
+### Easy GUI
 ![image](https://user-images.githubusercontent.com/95404564/231389545-73ee1bdb-308d-4d6a-a1d3-d8da8908dd37.png)
-###Easy import setting
+### Easy import setting
 Just setting in instance number 1 and automatically copy to other instances
 
 ## How to use
